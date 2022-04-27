@@ -1,4 +1,4 @@
-# 마이썸머카 - 게임 번역 프로젝트 - 'Non-Alcoholic' (Mild Language) ver.
+## 마이썸머카 - 게임 번역 프로젝트 - 'Non-Alcoholic' (Mild Language) ver.
 -----
 지금 보고 계시는 Repo는 [마이썸머카](http://www.amistech.com/msc/) 게임 번역 프로젝트의 일환인 '한국어화 모드'를 자동으로 업데이트하기 위해 만들어진 Repository입니다.   
 '한국어화 모드' 구현에 사용된 ModLoader Pro 특성 상, 두 가지 버전으로 이원화된 ['Alcoholic 버전'](https://github.com/potatosalad775/MSC_KR_Patch_A)과 'Non-Alcoholic 버전'이 각각 다른 Repository를 사용합니다.
